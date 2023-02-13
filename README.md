@@ -1,7 +1,5 @@
 # Projeto-Individual-Modulo 4
 
-Perguntas a serem respondidas:
-
 1º Existem outras entidades além dessas três?
 
 R: Acredito que haja mais relacionamentos entre cursos do que alunos, classes e cursos neste diagrama.
